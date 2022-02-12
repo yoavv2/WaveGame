@@ -5,13 +5,14 @@
 
 [The Course](https://www.youtube.com/watch?v=1gir2R7G9ws&list=RDCMUCOs7Q7IeuzgRyARaEqif75A&start_radio=1&rv=1gir2R7G9ws&t=54&ab_channel=RealTutsGML)
 
+
 ## What I've learned: 
-- I've improved my knowledge of object-oriented programming.
-- Menu systems
-- Enemy AI. 
-- Read/Write files for game saves and game loading,
-- Music & Sounds
-- Collision detection 
+- **I've improved my knowledge of object-oriented programming**.
+- **Menu systems**.
+- **Enemy AI**. 
+- **Read/Write files for game saves and game loading**.
+- **Music & Sounds**.
+- **Collision detection**. 
 
 
 
