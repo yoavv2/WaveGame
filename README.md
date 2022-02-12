@@ -9,6 +9,9 @@ simple 2d game in java
 
 <img width="697" alt="Screen Shot 2020-03-10 at 19 12 19" src="https://user-images.githubusercontent.com/45803647/76339785-3a286900-6303-11ea-9188-3a1a72b6a0c1.png">
 
+<!-- https://user-images.githubusercontent.com/45803647/76339785-3a286900-6303-11ea-9188-3a1a72b6a0c1.png -->
+![alt text](https://user-images.githubusercontent.com/45803647/76339785-3a286900-6303-11ea-9188-3a1a72b6a0c1.png)
+<!-- ![alt text](https://github.com/yoavv2/base-apparel-coming-soon/blob/main/design/desktop-preview.jpg?raw=true) -->
 
 ## The Game
 
